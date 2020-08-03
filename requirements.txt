@@ -1,0 +1,12 @@
+cclib
+matplotlib
+nbgrader
+numpy
+pandas
+pint
+py3dmol
+scikit-learn
+scipy
+seaborn
+statsmodels
+sympy
