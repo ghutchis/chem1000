@@ -1,5 +1,9 @@
 # Chem 1000: Mathematics for Chemistry
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ghutchis/chem1000/blob/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ghutchis/chem1000/main)
+
+
 Fall 2020
 
 Materials by Prof. Geoffrey Hutchison, [Department of Chemistry, University of Pittsburgh](https://www.chem.pitt.edu/)
@@ -26,5 +30,10 @@ Note that the tone presented in the notebooks is often informal. If you use for 
 Issues, mistakes, and bugs may occur. Please contact me or submit a GitHub issue.
 
 This work is supported by the National Science Foundation award CHE-1800435.
+
+**Attribution / Influencces:** Unless otherwise noted in a notebook, this work is written by me. That said, I greatly appreciate open source notebooks from a variety of people:
+- [John Kitchin, Carnegie Mellon](https://github.com/jkitchin/f19-06623)
+- [David Nero, Pitt](https://github.com/davidnero/phys1321-lectures)
+- [Patrick Walls, UBC](https://github.com/patrickwalls/mathematical-python)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
