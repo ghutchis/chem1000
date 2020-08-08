@@ -9,6 +9,7 @@
 - [Introduction to Python 3 (basics)](https://pythonprogramming.net/introduction-learn-python-3-tutorials/)
 - [Software Carpentry](https://swcarpentry.github.io/python-novice-inflammation/01-intro/index.html)
 - [Python for Chemists: Getting Started (U. Washington)](https://github.com/parkersruth/python-for-chemists/blob/master/hw0-getting-started.ipynb)
+- [Python Basics](https://pythonbasics.org/) - Learn Python and Control structures sections is needed
 - [Informal Introduction to Python](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
 - [Automate the Boring Stuff with Python, Ch. 1-4](https://automatetheboringstuff.com/chapter0/)
 
@@ -24,6 +25,10 @@ There are countless guides to learning more Python. Here are a small set targete
 - [Python in Chemistry, (U. Bath, UK)](https://pythoninchemistry.org/getting-started)
 - [Python for Computational Science and Engineering (U. Southampton UK)](https://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) with [Jupyter Notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [A Primer on Scientific Programming with Python](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9783662498873) - through the Pitt Library online access
+- [Effective Computation in Physics: Field Guide to Research with Python](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_dawson_primary_9781491901595) - through the Pitt Library online access
+- [Python for the Life Sciences: A Gentle Introduction](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/i25aoe/cdi_askewsholts_vlebooks_9781484245231) - through the Pitt Library online access
+- [Real Python](https://realpython.com/start-here/) Mix of free and paid tutorials - basics up to advanced topics
 
 ### Videos
 
