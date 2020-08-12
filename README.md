@@ -35,5 +35,7 @@ This work is supported by the National Science Foundation award CHE-1800435.
 - [John Kitchin, Carnegie Mellon](https://github.com/jkitchin/f19-06623)
 - [David Nero, Pitt](https://github.com/davidnero/phys1321-lectures)
 - [Patrick Walls, UBC](https://github.com/patrickwalls/mathematical-python)
+- [Charles Weiss](https://doi.org/10.1021/acs.jchemed.7b00078)
+- [ESCIP Workshop](https://escip.github.io)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
