@@ -1,3 +1,8 @@
+nbgrader*
+gradebook.db
+source
+release
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
