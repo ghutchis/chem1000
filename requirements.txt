@@ -1,4 +1,5 @@
 cclib
+jupyter-cjk-xelatex
 matplotlib
 nbgrader
 numpy
