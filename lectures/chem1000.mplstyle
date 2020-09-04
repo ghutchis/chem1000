@@ -6,7 +6,7 @@ axes.linewidth: 1.0
 axes.labelsize: 14
 
 figure.facecolor: white
-font.family: [Arial, Liberation Sans, Bitstream Vera Sans, sans-serif]
+font.family: Arial, Helvetica, Liberation Sans, Bitstream Vera Sans, sans-serif
 
 axes.grid: True
 grid.color: .8
