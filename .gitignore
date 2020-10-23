@@ -1,3 +1,4 @@
+*.dgraph
 nbgrader*
 gradebook.db
 source
