@@ -1,0 +1,36 @@
+axes.axisbelow: True
+axes.edgecolor: .8
+axes.facecolor: white
+axes.labelcolor: .15
+axes.linewidth: 1.0
+axes.labelsize: 14
+
+figure.facecolor: white
+font.family: Arial, Helvetica, Liberation Sans, Bitstream Vera Sans, sans-serif
+
+axes.grid: True
+grid.color: .8
+grid.alpha: 0.7
+grid.linestyle: --
+grid.linewidth: 0.4
+
+image.cmap: Greys
+legend.frameon: False
+legend.numpoints: 1
+legend.scatterpoints: 1
+lines.solid_capstyle: round
+text.color: .2
+
+xtick.color: .15
+xtick.direction: out
+xtick.major.size: 5.0
+xtick.minor.size: 1.5
+xtick.labelsize: 14
+
+ytick.color: .15
+ytick.direction: out
+ytick.major.size: 5.0
+ytick.minor.size: 1.5
+ytick.labelsize: 14
+
+savefig.dpi: 300
