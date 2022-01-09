@@ -3,9 +3,6 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/ghutchis/chem1000/blob/main)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ghutchis/chem1000/main)
 
-
-Fall 2020
-
 Materials by Prof. Geoffrey Hutchison, [Department of Chemistry, University of Pittsburgh](https://www.chem.pitt.edu/)
 https://github.com/ghutchis/chem1000
 

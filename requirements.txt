@@ -9,5 +9,6 @@ py3dmol
 scikit-learn
 scipy
 seaborn
+sigfig
 statsmodels
 sympy
