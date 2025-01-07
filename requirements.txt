@@ -1,10 +1,7 @@
 cclib
-jupyter-cjk-xelatex
 matplotlib
-nbgrader
 numpy
 pandas
-pint
 py3dmol
 scikit-learn
 scipy
